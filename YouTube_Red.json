@@ -12,10 +12,11 @@
   },
 
   "1.0-red": {
-    "versionCode": 2249,
+    "versionCode": 2254,
     "changelog": ["Первый релиз RED версии"],
     "changelog_ru": ["Первый релиз RED версии"],
     "changelog_uk": ["Перший реліз RED версії"]
   }
 }
+
 
