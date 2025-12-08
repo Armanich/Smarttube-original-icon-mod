@@ -12,11 +12,12 @@
   },
 
   "1.0-white": {
-    "versionCode": 2250,
+    "versionCode": 2249,
     "changelog": ["Первый релиз WHITE версии"],
     "changelog_ru": ["Первый релиз WHITE версии"],
     "changelog_uk": ["Перший реліз WHITE версії"]
   }
 }
+
 
 
