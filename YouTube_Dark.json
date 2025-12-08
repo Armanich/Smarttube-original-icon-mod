@@ -12,12 +12,13 @@
   },
 
   "1.0-dark": {
-    "versionCode": 2249,
+    "versionCode": 2254,
     "changelog": ["Первый релиз DARK версии"],
     "changelog_ru": ["Первый релиз DARK версии"],
     "changelog_uk": ["Перший реліз DARK версії"]
   }
 
 }
+
 
 
